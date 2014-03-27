@@ -1,4 +1,4 @@
-# SuperSU 1.93
+# SuperSU
 PRODUCT_COPY_FILES += \
     vendor/nameless/proprietary/prebuilt/bin/su:system/bin/.ext/.su \
     vendor/nameless/proprietary/prebuilt/bin/su:system/xbin/daemonsu \
