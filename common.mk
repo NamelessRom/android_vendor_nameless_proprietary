@@ -11,3 +11,7 @@ PRODUCT_COPY_FILES += \
 # DashClock
 PRODUCT_COPY_FILES += \
     vendor/nameless/proprietary/prebuilt/app/DashClock.apk:system/app/DashClock.apk
+
+
+# Releasetools
+TARGET_RELEASETOOLS_EXTENSIONS := vendor/nameless/proprietary
