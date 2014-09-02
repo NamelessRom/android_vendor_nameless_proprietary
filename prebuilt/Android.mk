@@ -12,7 +12,7 @@ LOCAL_MODULE_PATH := $(TARGET_OUT)/app
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := SuperSU
+LOCAL_MODULE := Superuser
 LOCAL_MODULE_OWNER := nameless
 LOCAL_SRC_FILES := app/$(LOCAL_MODULE).apk
 LOCAL_MODULE_TAGS := optional
