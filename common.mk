@@ -1,6 +1,7 @@
 # SuperSU
 PRODUCT_COPY_FILES += \
     vendor/nameless/proprietary/prebuilt/bin/su:system/bin/.ext/.su \
+    vendor/nameless/proprietary/prebuilt/bin/supolicy:/system/xbin/supolicy \
     vendor/nameless/proprietary/prebuilt/bin/su:system/xbin/daemonsu \
     vendor/nameless/proprietary/prebuilt/bin/su:system/xbin/su \
     vendor/nameless/proprietary/prebuilt/bin/su:system/xbin/sugote \
